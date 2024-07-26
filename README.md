@@ -2,5 +2,5 @@
 Front-End Engineer
 
 ## 🛠 Skills
-React.JS, TypeScript, Next.JS, Styled Components, Redux, PWA, Storybook, HTML, CSS, JavaScript...
+React.JS, TypeScript, GraphQL, Next.JS, Styled Components, Redux, PWA, Storybook, HTML, CSS, JavaScript...
 
